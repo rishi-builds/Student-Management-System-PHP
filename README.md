@@ -49,3 +49,13 @@ Password:- rk123
 Developed By:
 Name: Rishi Kumar
 Course: BCA
+
+<img width="1877" height="911" alt="image" src="https://github.com/user-attachments/assets/2d72efd0-0bfe-464e-bd82-2fee28ef289d" />
+<img width="1898" height="905" alt="image" src="https://github.com/user-attachments/assets/d51b7f5f-94a0-4b54-a2dc-5fa634bb90e2" />
+<img width="1901" height="911" alt="image" src="https://github.com/user-attachments/assets/6edb8656-df19-478a-8ac0-4304323e9f91" />
+<img width="1877" height="919" alt="image" src="https://github.com/user-attachments/assets/5d8e1a97-65fe-4f55-87cc-dae06309e99d" />
+
+
+
+
+
